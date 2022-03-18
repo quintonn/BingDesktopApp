@@ -1,0 +1,8 @@
+syntax: glob
+BingDesktopImageApp.v12.suo
+BingDesktopImageApp/bin/*
+BingDesktopImageApp/obj/*
+packages/*
+hg/*
+*.user
+.vs/*
